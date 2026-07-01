@@ -30,14 +30,14 @@ Run:
 
 Number of Subjects: 4
 
-PHYSICS A+ 4
-MATHEMATICS B+ 4
-ENGLISH  
-ELECTRONICS
+PHYSICS 4 A+
+MATHEMATICS A 4
+ENGLISH  3 B+
+ELECTRONICS 3 A+
 
 ## Sample Output
 
-CGPA = 8.73
+CGPA = 8.29
 
 ## Author
 
